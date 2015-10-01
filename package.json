@@ -1,7 +1,7 @@
 {
   "name": "hubot-hobbsbrook-cafe",
   "description": "get the hobbs cafe menu",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Tommy Parnell <tparnell@cimpress.com>",
   "license": "MIT",
   "keywords": [

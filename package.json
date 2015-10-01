@@ -1,7 +1,7 @@
 {
   "name": "hubot-hobbsbrook-cafe",
   "description": "get the hobbs cafe menu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Tommy Parnell <tparnell@cimpress.com>",
   "license": "MIT",
   "keywords": [
@@ -10,10 +10,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-hobbsbrook-cafe.git"
+    "url": "git://github.com/tparnell8/hubot-hobbsbrook-cafe.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-hobbsbrook-cafe/issues"
+    "url": "https://github.com/tparnell8/hubot-hobbsbrook-cafe/issues"
   },
   "dependencies": {
     "cheerio": "^0.19.0",

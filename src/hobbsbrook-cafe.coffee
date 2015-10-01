@@ -1,3 +1,11 @@
+#  Get the hobbs brooke cafe menu
+#
+# Notes:
+#   Because we can
+#
+# Commands:
+#   hubot cafe - Get cafe menu
+
 cheerio = require('cheerio');
 FormData = require('form-data');
 module.exports = (robot) ->
